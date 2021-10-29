@@ -1,6 +1,6 @@
 # curso-node-api
 
-Express.js.js API REST
+Express.js API REST
 
 # I learned with this project:
 - Routing with Express.js
